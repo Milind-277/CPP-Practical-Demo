@@ -14,7 +14,8 @@ long long factorial (int n) {
 }
 
 int main() {
-    int choice, num;
+    int choice; 
+    int num;
 
     do {
         cout << "\n===== MENU =====\n";
